@@ -36,7 +36,7 @@ Image processing is extensively used in fast growing markets like facial recogni
 <h1>Part1 - Data Loading</h1>
 
 
-The first step is to encode images captured by camera into quantum circuits. This way the quantum computer can “see” the item. We were given an image dataset (Fashion-MNIST)and our task was to make a data loading scheme that encodes the images into a quantum state as lossless as possible. The encoded image had to be interpretable by simple measurements at the end of the circuit. 
+The first step is to encode images captured by camera into quantum circuits. This way the quantum computer can “see” the item. We were given an image dataset (Fashion-MNIST) and our task was to make a data loading scheme that encodes the images into a quantum state as lossless as possible. The encoded image had to be interpretable by simple measurements at the end of the circuit. 
 
 The given dataset is in the so-called binary format for numpy objects or pickled files. In order to load it, use the NumPy load function which will automatically load these objects from the disk and will return a numpy array of data stored in the file. (Refer to the documentation page linked below for more information).
 
