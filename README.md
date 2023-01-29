@@ -63,13 +63,13 @@ In this part of the project we classified our images according to the appropriat
 
 [Image Processing on Quantum Computers](https://paperswithcode.com/paper/image-processing-in-quantum-computers/review/)
 
-https://www.researchgate.net/publication/257641933_NEQR_A_novel_enhanced_quantum_representation_of_digital_images#pf10
+[NEQR Paper](https://www.researchgate.net/publication/257641933_NEQR_A_novel_enhanced_quantum_representation_of_digital_images#pf10)
 
-https://learn.qiskit.org/course/machine-learning/data-encoding
+[Data Encoding Qiskit](https://learn.qiskit.org/course/machine-learning/data-encoding)
 
-https://www.nature.com/articles/srep08975
+[Simple Scheme for Encoding and Decoding a Qubit in an Unknown State](https://www.nature.com/articles/srep08975)
 
-https://arxiv.org/ftp/arxiv/papers/2002/2002.04394.pdf
+[Quantum Image Processing](https://arxiv.org/ftp/arxiv/papers/2002/2002.04394.pdf)
 
 https://docs.google.com/document/d/125NR-4mMqrQg4Q_p09pxOP91K8kcQAs_SRR0YeSR1M8/edit
 
