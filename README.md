@@ -1,8 +1,6 @@
 <b><h1>Welcome to Schrödinger's Descendants - MIT iQuHACK 2023</h1></b>
 
-![MIT](https://user-images.githubusercontent.com/89340753/216322633-35d933fb-72f9-41e8-ac83-36bbb1b48157.jpg)
-![Logo](https://user-images.githubusercontent.com/89340753/216322901-527c3f31-4052-4ef7-b0f2-54f20765f4a1.png)
-![Logo-1](https://user-images.githubusercontent.com/89340753/216322933-ce80236e-ac8f-4035-a4e1-cc7134d3517a.jpeg)
+![MIT](https://user-images.githubusercontent.com/89340753/216322633-35d933fb-72f9-41e8-ac83-36bbb1b48157.jpg)![Logo](https://user-images.githubusercontent.com/89340753/216322901-527c3f31-4052-4ef7-b0f2-54f20765f4a1.png)![Logo-1](https://user-images.githubusercontent.com/89340753/216322933-ce80236e-ac8f-4035-a4e1-cc7134d3517a.jpeg)
 
 This project is a part of the MIT iQuHACK2023. It is an annual quantum hackathon. It aims to bring students (high school through early-career professionals) from a diverse set of backgrounds to explore improvements and applications of near-term quantum devices. MIT iQuHACK 2023 will have an in-person hackathon and a virtual hackathon. Our team will take part in the remote hackathon. We have chosen the IonQ Challenge. # MIT_iQuHack-2023
 
